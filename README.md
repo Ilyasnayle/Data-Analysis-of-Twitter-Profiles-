@@ -11,7 +11,7 @@ The data that is extracted from these two profiles are only going to be used to 
     8. Which day of the week the user is more active?
 
 
-Implemented Libraries: 
+Imported Libraries: 
 	Numpy,
 	Pandas,
 	Tweepy,
