@@ -9,3 +9,21 @@ The data that is extracted from these two profiles are only going to be used to 
     6. Who is active mostly in twitter?
     7. Who is more active during the day and during the night?
     8. Which day of the week the user is more active?
+
+
+Implemented Libraries: 
+	Numpy
+	Pandas
+	Tweepy
+	String
+	re
+	Matplotlib
+	Spacy
+	TextBlob
+	WordCloud
+	Sklearn
+	Seaborn
+	XGBoost
+	LighGBM
+	Unicodcsv
+	Unidecode
