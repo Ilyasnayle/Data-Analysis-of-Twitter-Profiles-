@@ -12,18 +12,18 @@ The data that is extracted from these two profiles are only going to be used to 
 
 
 Implemented Libraries: 
-	Numpy
-	Pandas
-	Tweepy
-	String
-	re
-	Matplotlib
-	Spacy
-	TextBlob
-	WordCloud
-	Sklearn
-	Seaborn
-	XGBoost
-	LighGBM
-	Unicodcsv
-	Unidecode
+	Numpy,
+	Pandas,
+	Tweepy,
+	String,
+	re,
+	Matplotlib,
+	Spacy,
+	TextBlob,
+	WordCloud,
+	Sklearn,
+	Seaborn,
+	XGBoost,
+	LighGBM,
+	Unicodcsv,
+	Unidecode.
