@@ -27,3 +27,6 @@ Imported Libraries:
 	LighGBM,
 	Unicodcsv,
 	Unidecode.
+	
+## Twitter API
+In order to be able to use the code, you need to have Twitter API access key and token, to obatin that, please make a twitter developer account and apply to Twitter API.
